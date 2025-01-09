@@ -1,0 +1,52 @@
+.CItemsPoster{
+    height: 250px;
+    width: 168px;
+    object-fit: fill;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.ArrowNavBackP, .ArrowNavBackN{
+    position: absolute;
+    height: 100%;
+    width: 60px;
+    cursor: pointer;
+    align-content: center; 
+    top: 0; 
+    padding: 10px;
+    display: block;
+    button{
+        display: none;
+    }
+}
+.ArrowNavBackP{
+    left: 0;
+    justify-content: left;
+    align-content: center;
+}
+.ArrowNavBackN{
+    right: 0;
+    justify-content: right;
+    align-content: center;
+}
+
+.Coursel:hover .ArrowNavBackP{ 
+    display: block;
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(255,255,255,0) 100%);
+    button{
+        padding-top: 200%;
+        display: block;
+    }
+}
+
+.Coursel:hover .ArrowNavBackN{
+    display: block;
+    align-items: center;
+    justify-content: right;
+    margin-left: 2em;
+    background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 100%);
+    button{
+        padding-top: 200%;
+        display: block;
+    }
+}

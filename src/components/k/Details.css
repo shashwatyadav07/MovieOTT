@@ -1,0 +1,26 @@
+.movie_details{
+    position: relative;
+    /* display: inline-block; */
+}
+
+
+.more-posters{
+    position: relative;
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-top: 15px;
+    padding: 0;
+    gap:7px; 
+    grid-row-gap: 20px;
+    display: flex;
+    
+    flex-wrap: wrap;
+    overflow-y: auto;
+
+}
+
+
+hr{
+    margin-left: 15px;
+    border-color: rgb(160, 158, 158);
+}

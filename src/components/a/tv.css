@@ -1,0 +1,8 @@
+::-webkit-scrollbar{
+    display: hidden;
+}
+
+.tv-wrapper{
+    width: 100%;
+    overflow-x: hidden;
+}

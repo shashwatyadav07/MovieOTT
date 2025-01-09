@@ -1,0 +1,125 @@
+{
+    "shows":[
+            {
+                "Title":"Suits",
+                "Year":"2011-2019",
+                "Season":"9",
+                "Status":"Completed",
+                "Latest":"",
+                "Genre":"Thriller, Amazing",
+                "Runtime":"60 mins",
+                "Poster":"tv/suitsPoster.jpg",
+                "Backdrop":"tv/suitsBackdrop.jpg",
+                "Plot":"While running from a drug deal gone bad, Mike Ross, a brilliant young college-dropout, slips into a job interview with one of New York City's best legal closers, Harvey Specter. Tired of cookie-cutter law school grads, Harvey takes a gamble by hiring Mike on the spot after he recognizes his raw talent and photographic memory."
+            },
+            
+            {
+                "Title":"Game of Thrones",
+                "Year":"2011-2019",
+                "Season":"8",
+                "Status":"Completed",
+                "Latest":"",
+                "Genre":"Thriller, Amazing",
+                "Runtime":"60 mins",
+                "Poster":"tv/gotPoster.jpg",
+                "Backdrop":"tv/gotBackdrop.jpg",
+                "Plot":"Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond."
+            },
+            {
+                "Title":"Breaking Bad",
+                "Year":"2008-2012",
+                "Season":"5",
+                "Status":"Completed",
+                "Latest":"",
+                "Genre":"Thriller, Amazing",
+                "Runtime":"60 mins",
+                "Poster":"tv/bbPoster.jpg",
+                "Backdrop":"tv/bbBackdrop.jpg",
+                "Plot":"Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime."
+            },
+            {
+                "Title":"The Family Man",
+                "Year":"2019-",
+                "Season":"2",
+                "Status":"Running",
+                "Latest":"",
+                "Genre":"Thriller, Amazing",
+                "Runtime":"60 mins",
+                "Poster":"tv/tfmPoster.jpg",
+                "Backdrop":"tv/tfmBackdrop.jpg",
+                "Plot":"The story of a middle-class man who works for a special cell of the National Investigation Agency. While he tries to protect the nation from terrorists, he also has to protect his family from the impact of his secretive, high-pressure, and low paying job."
+            },
+            {
+                "Title":"Sacred Games",
+                "Year":"2018",
+                "Season":"2",
+                "Status":"Completed",
+                "Latest":"",
+                "Genre":"Thriller, Amazing",
+                "Runtime":"60 mins",
+                "Poster":"tv/sgPoster.jpg",
+                "Backdrop":"tv/sgBackdrop.jpg",
+                "Plot":"A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm."
+            },
+            {
+                "Title":"Paatal Lok",
+                "Year":"2020",
+                "Season":"1",
+                "Status":"Completed",
+                "Latest":"",
+                "Genre":"Thriller, Amazing",
+                "Runtime":"60 mins",
+                "Poster":"tv/plPoster.jpg",
+                "Backdrop":"tv/plBackdrop.jpg",
+                "Plot":"A down and out cop lands the case of a lifetime when four suspects are nabbed in the assassination attempt of a prime time journalist. The case turns out to be a devious maze where nothing is what it looks like. The pursuit of it leads him to the dark netherworld - the 'Paatal Lok', and to shocking discoveries in the past of the four suspects."
+            },
+            {
+                "Title":"Vikings",
+                "Year":"2013-2019",
+                "Season":"6",
+                "Status":"Completed",
+                "Latest":"",
+                "Genre":"Thriller, Amazing",
+                "Runtime":"60 mins",
+                "Poster":"tv/vikingsPoster.jpg",
+                "Backdrop":"tv/vikingsBackdrop.jpg",
+                "Plot":"The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors."
+            },
+            {
+                "Title":"Good Doctor",
+                "Year":"2017",
+                "Season":"7",
+                "Status":"Running",
+                "Latest":"",
+                "Genre":"Thriller, Amazing",
+                "Runtime":"60 mins",
+                "Poster":"tv/gdPoster.jpg",
+                "Backdrop":"tv/gdBackdrop.jpg",
+                "Plot":"Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital's surgical unit. Unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues."
+            },
+            {
+                "Title":"Lucifer",
+                "Year":"2016-2021",
+                "Season":"6",
+                "Status":"Completed",
+                "Latest":"",
+                "Genre":"Thriller, Amazing",
+                "Runtime":"60 mins",
+                "Poster":"tv/luciferPoster.jpg",
+                "Backdrop":"tv/luciferBackdrop.jpg",
+                "Plot":"Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape."
+            },
+            {
+                "Title":"Flash",
+                "Year":"2014-2023",
+                "Season":"9",
+                "Status":"Completed",
+                "Latest":"",
+                "Genre":"Thriller, Amazing",
+                "Runtime":"60 mins",
+                "Poster":"tv/flashPoster.jpg",
+                "Backdrop":"tv/flashBackdrop.jpg",
+                "Plot":"After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been granted the gift of super speed. Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest Man Alive, to protect his city."
+            }
+    ]
+}

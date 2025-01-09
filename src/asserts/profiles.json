@@ -1,0 +1,42 @@
+{
+    "profiles":[
+        {
+            "id": "1001",
+            "name":"Aditya",
+            "age":"25",
+            "accountType": "admin",    
+            "password": "Aditya@06",
+            "kidPin":[
+                
+            ]
+        },
+        {
+            "id": "2002",
+            "name": "",
+            "age": "",
+            "accountType": "",          
+            "password": ""
+        },
+        {
+            "id": "3003",
+            "name": "",
+            "age": "",
+            "accountType": "",          
+            "password": ""
+        },
+        {
+            "id": "4004",
+            "name": "",
+            "age": "",
+            "accountType": "",          
+            "password": ""
+        },
+        {
+            "id": "5005",
+            "name": "",
+            "age": "",
+            "accountType": "",          
+            "password": ""
+        }
+    ]
+}
